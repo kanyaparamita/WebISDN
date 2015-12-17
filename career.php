@@ -60,28 +60,56 @@
             <!-- Begin Manajemen -->
             <div class="makeDonation-area">
                 <div class="section-heading">
-                    <h2>Make A Donation</h2>
+                    <h2>Join Us</h2>
                 <div class="line"></div>
                 </div>
                 <p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <p class="text-justify">Silakan transfer ke rekening ISDN berikut ini:</p>
                 <div class="donation-area">
                     <div class="donation-nav">
-                        <div class="col-lg-2 col-md-2">
-                            <p align="right"><b>BCA</b></p>
-                        </div>
-                        <div class="col-lg-10 col-md-10">
-                            <p align="left">012 3456 7890</p>
-                        </div>
-                        <div class="col-lg-2 col-md-2">
-                            <p align="right"><b>Mandiri</b></p>
-                        </div>
-                        <div class="col-lg-10 col-md-10">
-                            <p align="left">012 3456 7890</p>
-                        </div>
+                        <form role="form">
+                            <div class="form-group">
+                              <label for="email">Name:</label>
+                              <input type="text" class="form-control" id="email" placeholder="Enter name">
+                            </div>
+                            <div class="form-group">
+                              <label for="pwd">Email:</label>
+                              <input type="email" class="form-control" id="pwd" placeholder="Enter email">
+                            </div>
+                            <div class="form-group">
+                              <label for="email">HP:</label>
+                              <input type="text" class="form-control" id="email" placeholder="Enter nomor HP">
+                            </div>
+                            <div class="form-group">
+                              <label for="email">Upload CV</label>
+                              <input type="file" class="form-control" id="email" placeholder="Enter nomor HP">
+                            </div>
+                            <button type="submit" class="btn btn-default"><a data-hover="Donate" href="donate.php"><span>Submit</span></a></button>
+                        </form>
                     </div>
                 </div>
-                <p class="text-justify">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <!-- <div class="donation-area">
+                  <form action ="">
+                    <div class="col-lg-3 col-md-3">
+                        <p align="right">Nama</p>
+                    </div>
+                    <div class="col-lg-9 col-md-9">
+                        <input type="text"/>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        <p align="right">Email</p>
+                    </div>
+                    <div class="col-lg-9 col-md-9">
+                        <input type="text"/>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        <p align="right">HP</p>
+                    </div>
+                    <div class="col-lg-9 col-md-9">
+                        <input type="text"/>
+                    </div>
+                    <input type="submit">
+                  </form>
+                </div> -->
             </div>
           </div>
         </div>

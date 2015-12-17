@@ -60,8 +60,8 @@
 					<img src="images/2.jpg">
 				</div>
 				<div class="slider-text">
-					<h2>Lorem <strong>Ipsum Dolor</strong> Sit Amet Consectetuer Adipiscing Elit</h2>
-					<p><strong>Lorem</strong> ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+					<h2><strong>Ipsum Dolor</strong> Ujian jam 7 pagi huhu</h2>
+					<p><strong>Lorem</strong> kang indra suka kopi dan kencan sama lilan</p>
 					<!-- <div class="readmore_area">
 						<a data-hover="Read More" href="#"><span>Read More</span></a>
 					</div> -->
@@ -74,8 +74,8 @@
 					<img src="images/3.jpg">
 				</div>
 				<div class="slider-text">
-					<h2>Lorem <strong>Ipsum Dolor</strong> Sit Amet Consectetuer Adipiscing Elit</h2>
-					<p><strong>Lorem</strong> ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+					<h2>Meme <strong>Ipsum Dolor</strong> SKjhakd aksjdhakjdh askjdhasd</h2>
+					<p><strong>Lorem</strong> iaksjdhakjd asjh askjdhhas dkasdhakjsdh kajshdajkhd.</p>
 					<!-- <div class="readmore_area">
 						<a data-hover="Read More" href="#"><span>Read More</span></a>
 					</div> -->

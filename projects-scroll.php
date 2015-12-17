@@ -67,7 +67,7 @@
 				<div class="wpb_wrapper">
 					<div class="wpb_text_column wpb_content_element">
 						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
 						</div>
 					</div>
 					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
@@ -78,31 +78,7 @@
 				<div class="wpb_wrapper">
 					<div class="wpb_text_column wpb_content_element">
 						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
-						</div>
-					</div>
-					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="vc_row wpb_row vc_row-fluid">
-			<div class ="wpb_column vc_column_container vc_col-sm-6">
-				<div class="wpb_wrapper">
-					<div class="wpb_text_column wpb_content_element">
-						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
-						</div>
-					</div>
-					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
-					</div>
-				</div>
-			</div>
-			<div class ="wpb_column vc_column_container vc_col-sm-6">
-				<div class="wpb_wrapper">
-					<div class="wpb_text_column wpb_content_element">
-						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
 						</div>
 					</div>
 					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
@@ -115,7 +91,7 @@
 				<div class="wpb_wrapper">
 					<div class="wpb_text_column wpb_content_element">
 						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
 						</div>
 					</div>
 					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
@@ -126,7 +102,31 @@
 				<div class="wpb_wrapper">
 					<div class="wpb_text_column wpb_content_element">
 						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+						</div>
+					</div>
+					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="vc_row wpb_row vc_row-fluid">
+			<div class ="wpb_column vc_column_container vc_col-sm-6">
+				<div class="wpb_wrapper">
+					<div class="wpb_text_column wpb_content_element">
+						<div class="wpb_wrapper">
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
+						</div>
+					</div>
+					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
+					</div>
+				</div>
+			</div>
+			<div class ="wpb_column vc_column_container vc_col-sm-6">
+				<div class="wpb_wrapper">
+					<div class="wpb_text_column wpb_content_element">
+						<div class="wpb_wrapper">
+							<p><a href="project-single.php"><img class="aligncenter size-full wp-image-3185" src="images/5.jpg" alt="Proyek X" height="400px" width="400px"></a></p>
 						</div>
 					</div>
 					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
