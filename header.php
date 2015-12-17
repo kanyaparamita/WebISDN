@@ -24,7 +24,7 @@
 	 					<ul class="dropdown-menu" role="menu">
 	 						<li><a href="cont_donate.php">Donate</a></li>
 	 						<li><a href="#">Career</a></li>
-	 						<li><a href="#">Volunteer</a></li>
+	 						<li><a href="cont_volunteer.php">Volunteer</a></li>
 	 					</ul>
 	 				</li>
 	 				<li class="dropdown">

@@ -970,6 +970,33 @@ img{
 }
 
 /*--------------------*/
+/* MAKE DONATION */
+/*--------------------*/
+
+#makeDonation{
+	float: left;
+	display: inline;
+	width: 100%;
+	padding: 75px 0px;
+}
+.makeDonation-area{
+	float: left;
+	display: inline;
+	width: 100%;
+	padding-left: 170px;
+	padding-right: 170px;
+}
+.donation-area {
+  display: inline;
+  float: left;
+  margin-top: 25px;
+  width: 100%;
+}
+.donation-nav{
+	margin-left: -35px;
+}
+
+/*--------------------*/
 /* MEET DOCTORS */
 /*--------------------*/
 
@@ -1656,6 +1683,13 @@ figure.blog-figure:hover .image-effect::before {
 }
 .blog-breadcrumbs-area {
   background-color: #f5f5f5;
+  display: inline;
+  float: left;
+  padding: 20px 0;
+  width: 100%;
+}
+.blog-breadcrumbs-area-2 {
+  background-color: #ffffff;
   display: inline;
   float: left;
   padding: 20px 0;

@@ -82,7 +82,7 @@
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+						<a data-hover="Donate" href="donate.php"><span>Donate</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -107,7 +107,7 @@
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+						<a data-hover="Donate" href="donate.php"><span>Donate</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -132,7 +132,7 @@
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+						<a data-hover="Donate" href="donate.php"><span>Donate</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -157,7 +157,7 @@
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+						<a data-hover="Donate" href="donate.php"><span>Donate</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -182,7 +182,7 @@
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="col-lg-4 col-md-4"></div>
 	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+						<a data-hover="Donate" href="donate.php"><span>Donate</span></a>
 					</div>
 	            </div>
 	        </div>

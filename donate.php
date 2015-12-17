@@ -37,6 +37,39 @@
 
     <?php include 'header.php'; ?>
 
+    <!-- Begin Header Section -->
+    <section id="blogArchive">      
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="blog-breadcrumbs-area-2">
+            <div class="container">
+              <div class="blog-breadcrumbs-left">
+                <h2> </h2>
+              </div>
+            </div>
+          </div>
+        </div>        
+      </div>      
+    </section>
+    <!-- End Header Section -->
+
+    <section id="makeDonation">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+            <!-- Begin Manajemen -->
+            <div class="makeDonation-area">
+                <div class="section-heading">
+                    <h2>Make A Donation</h2>
+                <div class="line"></div>
+                </div>
+                <p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <?php include 'footer.php'; ?>
 
     <!-- jQuery Library  -->

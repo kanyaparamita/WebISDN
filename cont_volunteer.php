@@ -79,10 +79,8 @@
 	            <div class="single-service">
 	            	<h3><p align="left"><a href="#">Cardio Monitoring</a></p></h3>
 	              	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+	              	<div class="readmore_area col-lg-4 col-md-4">
+						<a data-hover="Donate" href="#"><span>Volunteer</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -104,10 +102,8 @@
 	            <div class="single-service">
 	            	<h3><p align="left"><a href="#">Cardio Monitoring</a></p></h3>
 	              	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+	              	<div class="readmore_area col-lg-4 col-md-4">
+						<a data-hover="Donate" href="#"><span>Volunteer</span></a>
 					</div>
 	            </div>
 	        </div>
@@ -129,60 +125,8 @@
 	            <div class="single-service">
 	            	<h3><p align="left"><a href="#">Cardio Monitoring</a></p></h3>
 	              	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
-					</div>
-	            </div>
-	        </div>
-		</div>
-		<!-- Begin Single Project to Donate -->
-		<div class="vc_row wpb_row vc_row-fluid">
-			<div class ="col-lg-4 col-md-4">
-				<div class="wpb_wrapper">
-					<div class="wpb_text_column wpb_content_element">
-						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="300px" width="300px"></a></p>
-						</div>
-					</div>
-					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-8 col-md-8">
-	            <div class="single-service">
-	            	<h3><p align="left"><a href="#">Cardio Monitoring</a></p></h3>
-	              	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
-					</div>
-	            </div>
-	        </div>
-		</div>
-		<!-- Begin Single Project to Donate -->
-		<div class="vc_row wpb_row vc_row-fluid">
-			<div class ="col-lg-4 col-md-4">
-				<div class="wpb_wrapper">
-					<div class="wpb_text_column wpb_content_element">
-						<div class="wpb_wrapper">
-							<p><a href="#"><img class="aligncenter size-full wp-image-3185" src="images/4.jpg" alt="Proyek X" height="300px" width="300px"></a></p>
-						</div>
-					</div>
-					<div class="vc_empty_space" style="height: 10px"> <span class="vc_empty_space_inner"></span>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-8 col-md-8">
-	            <div class="single-service">
-	            	<h3><p align="left"><a href="#">Cardio Monitoring</a></p></h3>
-	              	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="col-lg-4 col-md-4"></div>
-	            	<div class="readmore_area col-lg-4 col-md-4">
-						<a data-hover="Donate" href="#"><span>Donate</span></a>
+	              	<div class="readmore_area col-lg-4 col-md-4">
+						<a data-hover="Donate" href="#"><span>Volunteer</span></a>
 					</div>
 	            </div>
 	        </div>
