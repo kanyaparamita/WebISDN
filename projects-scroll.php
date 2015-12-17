@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<title>Proyek | ISDN</title>
-	<link rel="shorcut icon" type"image/icon" href="images/webicon.ico"/>
+	<?php include 'webicon.php'; ?>
 
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">

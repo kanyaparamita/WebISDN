@@ -2,26 +2,26 @@
 <html>
 <head>
 
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>ISDN</title>
+    <title>ISDN</title>
     <?php include 'webicon.php'; ?>
 
-	<!-- Bootstrap -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
-	<!-- Main CSS for Structural -->
-	<link rel="stylesheet" href="style.css">
+    <!-- Main CSS for Structural -->
+    <link rel="stylesheet" href="style.css">
 
-	<!-- Font awesome css file-->
+    <!-- Font awesome css file-->
     <link href="css/font-awesome.min.css" rel="stylesheet">
 
-	<!-- ISDN Theme CSS -->
-	<link rel="stylesheet" href="css/isdn-theme-biru.css">
+    <!-- ISDN Theme CSS -->
+    <link rel="stylesheet" href="css/isdn-theme-biru.css">
 
-	<!-- Slick slider css file -->
+    <!-- Slick slider css file -->
     <link href="css/slick.css" rel="stylesheet"> 
 
     <!-- Photo Swipe Image Gallery -->     
@@ -35,11 +35,11 @@
 </head>
 <body>
 
-	<?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
 
-	<?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
 
-	<!-- jQuery Library  -->
+    <!-- jQuery Library  -->
     <script src="js/jquery.js"></script>    
     <!-- Bootstrap default js -->
     <script src="js/bootstrap.min.js"></script>
