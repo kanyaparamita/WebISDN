@@ -1,0 +1,1 @@
+<link rel="shorcut icon" type"image/icon" href="images/webicon.ico"/>
