@@ -59,7 +59,7 @@
                         <!-- Start Single Blog -->
                         <div class="single-Blog">
                             <div class="blog-img">
-                       			<a href="#"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
+                       			<a href="blog-single.php"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
                             	<span class="image-effect"></span>
                             </div>
                             <div class="blog-author">
@@ -73,7 +73,7 @@
                               	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                               	<!-- Read more btn -->
                               	<div class="readmore_area">
-									<a data-hover="Read More" href="#"><span>Read More</span></a>
+									<a data-hover="Read More" href="blog-single.php"><span>Read More</span></a>
 								</div>   
                             </div>
                         </div>
@@ -81,7 +81,7 @@
                         <!-- Start Single Blog -->
                         <div class="single-Blog">
                             <div class="blog-img">
-                       			<a href="#"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
+                       			<a href="blog-single.php"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
                             	<span class="image-effect"></span>
                             </div>
                             <div class="blog-author">
@@ -95,7 +95,7 @@
                               	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                               	<!-- Read more btn -->
                               	<div class="readmore_area">
-									<a data-hover="Read More" href="#"><span>Read More</span></a>
+									<a data-hover="Read More" href="blog-single.php"><span>Read More</span></a>
 								</div>   
                             </div>
                         </div>
@@ -103,7 +103,7 @@
                         <!-- Start Single Blog -->
                         <div class="single-Blog">
                             <div class="blog-img">
-                       			<a href="#"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
+                       			<a href="blog-single.php"><img alt="img" src="images/6.jpg" width="500px" height="300px"></a>
                             	<span class="image-effect"></span>
                             </div>
                             <div class="blog-author">
@@ -117,7 +117,7 @@
                               	<p class="text-justify">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                               	<!-- Read more btn -->
                               	<div class="readmore_area">
-									<a data-hover="Read More" href="#"><span>Read More</span></a>
+									<a data-hover="Read More" href="blog-single.php"><span>Read More</span></a>
 								</div>   
                             </div>
                         </div>
@@ -156,7 +156,7 @@
 		                              	<a href="#" class="news-img"><img alt="img" src="images/small-blog-img1.jpg" class="media-object"></a>
 		                            </div>
 		                            <div class="media-body">
-		                             	<a href="blog-single.html">Dummy text of the Medical Post</a>
+		                             	<a href="blog-single.php">Dummy text of the Medical Post</a>
 		                             	<span class="feed-date">27.02.15</span>
 		                            </div>
 	                          	</div>
@@ -167,7 +167,7 @@
 		                              	<a href="#" class="news-img"><img alt="img" src="images/small-blog-img1.jpg" class="media-object"></a>
 		                            </div>
 		                            <div class="media-body">
-		                             	<a href="blog-single.html">Dummy text of the Medical Post</a>
+		                             	<a href="blog-single.php">Dummy text of the Medical Post</a>
 		                             	<span class="feed-date">27.02.15</span>
 		                            </div>
 	                          	</div>
@@ -178,7 +178,7 @@
 		                              	<a href="#" class="news-img"><img alt="img" src="images/small-blog-img1.jpg" class="media-object"></a>
 		                            </div>
 		                            <div class="media-body">
-		                             	<a href="blog-single.html">Dummy text of the Medical Post</a>
+		                             	<a href="blog-single.php">Dummy text of the Medical Post</a>
 		                             	<span class="feed-date">27.02.15</span>
 		                            </div>
 	                          	</div>
